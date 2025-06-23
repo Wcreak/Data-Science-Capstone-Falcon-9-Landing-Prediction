@@ -22,3 +22,7 @@ ________________________________________
 ✔ **Predictive Model** for Falcon 9 first-stage landings.  
 ✔ **Interactive Dashboard** for launch data exploration.  
 ✔ **Business Recommendations** for cost-efficient spaceflight strategies.  
+________________________________________
+## Author  
+**Wajih ANJJAR**  
+[GitHub Profile : Wcreak](https://github.com/Wcreak)
